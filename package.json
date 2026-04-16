@@ -1,0 +1,1 @@
+{\n  "name": "apotik-svelte",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "dependencies": {\n    "svelte": "+\"\n  },\n  "devDependencies": {\n    "vite": "+\",\n    "tailwindcss": "+"\n  }\n}
